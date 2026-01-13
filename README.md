@@ -5,7 +5,7 @@ Based in Georgia
 ---
 
 ## ☁️ current projects
-- 🎮 `Steamparty` – Finding shared games among your steam friends  
+- 🎮 [`Steamparty`](https://steamparty.onrender.com/) – Finding shared games among your steam friends  
 - 🎨 `flavor.css` – personal UI flavor, built from scratch  
 - 🕹️ Game modding & Georgian localizations (UE4, Unity, etc.)  
 - 📜 Tutorials, tips, no-fluff guides
