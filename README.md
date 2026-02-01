@@ -20,6 +20,6 @@ Based in Georgia
 
 ---
 
-> dm for questions: `@grigolmersadze` on Discord.
+> dm for questions: `@ufliswuli` on Discord.
 
 ---
