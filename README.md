@@ -14,9 +14,9 @@ Based in Georgia
 ---
 
 ## ⚙️ stack
-`js` `node` `express` `hbs` `sql`, `python`,
-`vanilla css` `fl studio` `blender` `git`  
-`unreal engine`, `re-engine`, `canva`
+`js` `node` `express` `hbs` `sql`, `python`,`railway`,
+`vanilla css` `fl studio` `blender` `git`,`prisma`
+`unreal engine`, `re-engine`, `canva`,`discord.js`
 
 ---
 
