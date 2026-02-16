@@ -5,6 +5,7 @@ Based in Georgia
 ---
 
 ## ☁️ current projects
+- 🐾 [`Petzilla`](https://petzilla.vercel.app/) – Discord bot with idle mining, a pet collection system, and a player-driven economy  
 - 🎮 [`Steamparty`](https://steamparty.onrender.com/) – Finding shared games among your steam friends  
 - 🎨 `flavor.css` – personal UI flavor, built from scratch  
 - 🕹️ Game modding & Georgian localizations (UE4, Unity, etc.)  
