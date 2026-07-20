@@ -5,7 +5,7 @@ Based in Georgia
 ---
 
 ## ☁️ current projects
-- ⚓ [`Raid`](https://raid.ge/) – Georgian game server browsing platform  
+- ⚡ [`Raid`](https://raid.ge/) – Georgian game server browsing platform  
 - 🐾 [`Petzilla`](https://petzilla.xyz/) – Discord bot with idle mining, a pet collection system, and a player-driven economy  
 - 🎮 [`Steamparty`](https://steamparty.onrender.com/) – Finding shared games among your steam friends  
 - 🕹️ Game modding & Georgian localizations (UE4, Unity, etc.)  
