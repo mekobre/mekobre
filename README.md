@@ -1,6 +1,7 @@
 # About
 
 Based in Georgia
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K0V724O67J)
 
 ## ☁️ current projects
 - ⚡ [`Raid`](https://raid.ge/) – Georgian game server browsing platform  
