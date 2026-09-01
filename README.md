@@ -1,7 +1,6 @@
 # About
 
-Based in Georgia <br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K0V724O67J)
+Based in Georgia
 
 ## ☁️ current projects
 - ⚡ [`Raid`](https://raid.ge/) – Georgian game server browsing platform  
@@ -15,6 +14,9 @@ Based in Georgia <br>
 `js` `node` `express` `hbs` `sql`, `python`,`railway`,`vercel`,
 `css`, `postgresql` `git`,`prisma`,
 `unreal engine`, `re-engine`, `canva`,`discord.js`
+
+---
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K0V724O67J)
 
 ---
 
